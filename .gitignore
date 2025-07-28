@@ -18,3 +18,9 @@ mock-login-callback.ts
 /local-db
 prisma/local-db/db.sqlite
 /local-db2
+
+# Claude and Simone files
+claude_docs/
+.simone/
+.mcp.json
+CLAUDE.md
